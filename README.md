@@ -26,7 +26,7 @@ I hope you can find it usefull for your DL study.
 * Optimization algorithms
   * Optimization methods [ipynb](Improving-Deep-Neural-Networks/Optimization+methods1.ipynb)
 * Hyperparameter tuning, Batch Normalization
-  * Tensor flow tutorial [ipynb](Improving-Deep-Neural-Networks/Tensorflow+Tutorial.ipynb)
+  * Tensorflow tutorial [ipynb](Improving-Deep-Neural-Networks/Tensorflow+Tutorial.ipynb)
 
 ### Convolutional Neural Networks-
 
@@ -53,13 +53,10 @@ I hope you can find it usefull for your DL study.
   * Dinosaurus island, Character level language model [ipynb](Sequence-Models/Dinosaurus+Island+--+Character+level+language+model+final+-+v3.ipynb)
   * Improve a Jazz Solo with an LSTM Network [ipynb](Sequence-Models/Improvise+a+Jazz+Solo+with+an+LSTM+Network+-+v3.ipynb)
 * Natual Language Processin (NLP)
-  * Emogify [ipynb](Sequence-Models/Emojify+-+v2.ipynb)
+  * Emojify [ipynb](Sequence-Models/Emojify+-+v2.ipynb)
   * Operation on word vectors [ipynb](Sequence-Models/Operations+on+word+vectors+-+v2.ipynb)
 * Sequence models
-<<<<<<< HEAD
   * Neural machine translations with attention [ipynb](Sequence-Models/Neural+machine+translation+with+attention+-+v4.ipynb)
   * Trigger word detection [ipynb](Sequence-Models/Trigger+word+detection+-+v1.ipynb)
-=======
-  * Neural machine translations with attention [ipynb](Sequence-Models\Neural+machine+translation+with+attention+-+v4.ipynb)
-  * Trigger word detection [ipynb](Sequence-Models\Trigger+word+detection+-+v1.ipynb)
->>>>>>> e8dd8bcccd868d57f3c052557b1424545c280b90
+  * Neural machine translations with attention [ipynb](Sequence-Models/Neural+machine+translation+with+attention+-+v4.ipynb)
+  * Trigger word detection [ipynb](Sequence-Models/Trigger+word+detection+-+v1.ipynb)
