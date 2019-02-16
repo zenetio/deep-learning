@@ -1,4 +1,4 @@
-# Deep Learning
+# Deep Learning Projects
 This repository has some projects that I worked in the Deep Learning Specialization course from deeplearning.ai.
 
 I hope you can find it usefull for your DL study.
@@ -56,5 +56,10 @@ I hope you can find it usefull for your DL study.
   * Emogify [ipynb](Sequence-Models/Emojify+-+v2.ipynb)
   * Operation on word vectors [ipynb](Sequence-Models/Operations+on+word+vectors+-+v2.ipynb)
 * Sequence models
+<<<<<<< HEAD
   * Neural machine translations with attention [ipynb](Sequence-Models/Neural+machine+translation+with+attention+-+v4.ipynb)
   * Trigger word detection [ipynb](Sequence-Models/Trigger+word+detection+-+v1.ipynb)
+=======
+  * Neural machine translations with attention [ipynb](Sequence-Models\Neural+machine+translation+with+attention+-+v4.ipynb)
+  * Trigger word detection [ipynb](Sequence-Models\Trigger+word+detection+-+v1.ipynb)
+>>>>>>> e8dd8bcccd868d57f3c052557b1424545c280b90
