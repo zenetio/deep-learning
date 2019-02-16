@@ -55,8 +55,6 @@ I hope you can find it usefull for your DL study.
 * Natual Language Processin (NLP)
   * Emojify [ipynb](Sequence-Models/Emojify+-+v2.ipynb)
   * Operation on word vectors [ipynb](Sequence-Models/Operations+on+word+vectors+-+v2.ipynb)
-* Sequence models
-  * Neural machine translations with attention [ipynb](Sequence-Models/Neural+machine+translation+with+attention+-+v4.ipynb)
-  * Trigger word detection [ipynb](Sequence-Models/Trigger+word+detection+-+v1.ipynb)
+* Sequence models and Attention mechanism
   * Neural machine translations with attention [ipynb](Sequence-Models/Neural+machine+translation+with+attention+-+v4.ipynb)
   * Trigger word detection [ipynb](Sequence-Models/Trigger+word+detection+-+v1.ipynb)
