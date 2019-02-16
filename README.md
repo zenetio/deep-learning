@@ -1,5 +1,5 @@
 # Deep Learning Projects
-This repository has some projects that I worked in the Deep Learning Specialization course from deeplearning.ai.
+This repository has some projects that I worked in the Deep Learning Specialization course from [deeplearning.ai](https://www.deeplearning.ai/).
 
 I hope you can find it usefull for your DL study.
 
